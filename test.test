@@ -1,0 +1,3 @@
+DEBUG=inspection-backend:* npm start
+
+c:\Program Files\MongoDB\Server\4.0\bin
